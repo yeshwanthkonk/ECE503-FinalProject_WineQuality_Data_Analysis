@@ -1,0 +1,15 @@
+# Exclude any directory or file ending with _venv
+*_venv
+
+# Exclude all .docx files
+*.docx
+
+# Exclude all .pdf files
+*.pdf
+
+# Exclude all .tmp files
+*.tmp
+
+__pycache__/
+
+.idea/
